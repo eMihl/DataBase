@@ -9,11 +9,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "subprogramas/Tipos.cpp" // Desarrolla los tipos de datos definidos
-#include "subprogramas/altaCuenca.cpp" // Opción A del Menú Principal
-#include "subprogramas/nuevaMedicion.cpp" // Opción N del Menú Principal
-#include "subprogramas/Registros.cpp" // Opción R del Menú Principal
-#include "subprogramas/Calendario.cpp" // Opción V del Menú Principal (Calendario, adaptado de la práctica 3)
+#include "modulos/Tipos.cpp" // Desarrolla los tipos de datos definidos
+#include "modulos/altaCuenca.cpp" // Opción A del Menú Principal
+#include "modulos/nuevaMedicion.cpp" // Opción N del Menú Principal
+#include "modulos/Registros.cpp" // Opción R del Menú Principal
+#include "modulos/Calendario.cpp" // Opción V del Menú Principal (Calendario, adaptado de la práctica 3)
 
 
 /** Procedimiento de impresión del menú principal **/
